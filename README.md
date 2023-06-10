@@ -19,3 +19,7 @@
 - HTML
 - CSS
 - Vanila Javascript
+
+## 프로젝트 주소
+
+https://number-guess-game-hw.netlify.app/
