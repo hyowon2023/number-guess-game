@@ -48,7 +48,7 @@ function play() {
   } else if (userValue > computerNum) {
     resultArea.textContent = 'Down!!!';
   } else {
-    resultArea.textContent = '맞추셨습니다!!';
+    resultArea.textContent = `That's right`;
     gameOver = true;
   }
 
