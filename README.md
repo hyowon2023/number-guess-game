@@ -1,4 +1,5 @@
 # number guess game
+![Screenshot 2023-06-10 at 22 10 12](https://github.com/hyowon2023/number-guess-game/assets/136059100/bb410778-c3d7-4229-a66f-ad90617e6638)
 
 ## 기능
 
